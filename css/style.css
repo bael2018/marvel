@@ -676,7 +676,7 @@ main{
 @media screen and (max-width: 625px){
 
     .navbar ul li input{
-        width: 90% !important;
+        width: 80% !important;
     }
 
     .navbar ul{
